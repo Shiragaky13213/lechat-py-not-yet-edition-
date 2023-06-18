@@ -1,0 +1,3 @@
+#RANDOM FACTS
+this chat is based on open source
+le-chat-php is based on the perl LEchat wrote by Lucky Eddie
